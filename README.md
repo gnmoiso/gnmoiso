@@ -46,11 +46,9 @@ Estoy buscando colaborar en equipos de software o comenzar proyectos freelance p
 ## 📬 Contáctame
 
 - ✉️ Email: moisoyt@gmail.com  
-- 🌐 LinkedIn:"https://www.linkedin.com/in/moises-gonzalez-navarro-979091384/"
+- 🌐 LinkedIn: https://www.linkedin.com/in/moises-gonzalez-navarro-979091384/
 - 💼 Portafolio: https://github.com/gnmoiso  
 
-> “Siempre abierto a aprender y construir cosas nuevas.”  
-</p>
 
 ###
 
@@ -79,6 +77,10 @@ Estoy buscando colaborar en equipos de software o comenzar proyectos freelance p
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=gnmoiso.gnmoiso&"  />
 </div>
+
+> “Siempre abierto a aprender y construir cosas nuevas.”  
+</p>
+
 
 ###
 
