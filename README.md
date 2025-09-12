@@ -3,7 +3,16 @@
 🎓 Estudiante de **Tecnología en Diseño y Programación de Soluciones SaaS** (ITM)  
 💻 Apasionado por backend, diseño de bases de datos, APIs y automatización  
 🌱 Aprendiendo: **C# · Python · Java · SQL**  
-📫 ¿Quieres contactarme? -> [LinkedIn](https://www.linkedin.com/in/tuusuario) | moisofeikk@gmail.com
+📫 ¿Quieres contactarme? -> [LinkedIn](https://www.linkedin.com/in/tuusuario) | moisoyt@gmail.com
+
+###
+<div align="center">
+  <a href="https://www.linkedin.com/in/moises-gonzalez-navarro-979091384/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
 
 ---
 
@@ -23,10 +32,6 @@
 |---------|------------------|-------------|
 | **InheritanceExam** | C# | Herencia, POO, diagramas UML |
 | **TallerPOO01** | C# | Clases, objetos y patrones de diseño básicos |
-| **Proyecto CRUD** (por hacer) | C# / ASP.NET Core / SQLite | API CRUD, base de datos, pruebas unitarias y despliegue |
-| **Automatización con Python** (por hacer) | Python | Scripts para manipulación de archivos y datos |
-
-*(A medida que termines los proyectos, actualiza el README con enlaces a repositorios y descripciones más detalladas).*
 
 ---
 
@@ -49,11 +54,7 @@ Estoy buscando colaborar en equipos de software o comenzar proyectos freelance p
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/moises-gonzalez-navarro-979091384/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+
 
 ###
 
