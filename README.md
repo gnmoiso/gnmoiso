@@ -45,8 +45,8 @@ Estoy buscando colaborar en equipos de software o comenzar proyectos freelance p
 
 ## 📬 Contáctame
 
-- ✉️ Email: moisofeikk@gmail.com  
-- 🌐 LinkedIn: [linkedin.com/in/tuusuario](https://www.linkedin.com/in/tuusuario)  
+- ✉️ Email: moisoyt@gmail.com  
+- 🌐 LinkedIn: [linkedin.com/in/MoisesGonzalez(https://www.linkedin.com/in/moises-gonzalez-navarro-979091384/)  
 - 💼 Portafolio: https://github.com/gnmoiso  
 
 > “Siempre abierto a aprender y construir cosas nuevas.”  
