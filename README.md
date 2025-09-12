@@ -78,8 +78,7 @@ Estoy buscando colaborar en equipos de software o comenzar proyectos freelance p
   <img src="https://visitor-badge.laobi.icu/badge?page_id=gnmoiso.gnmoiso&"  />
 </div>
 
-> “Siempre abierto a aprender y construir cosas nuevas.”  
-</p>
+
 
 
 ###
@@ -89,3 +88,6 @@ Estoy buscando colaborar en equipos de software o comenzar proyectos freelance p
 </div>
 
 ###
+
+> “Siempre abierto a aprender y construir cosas nuevas.”  
+</p>
