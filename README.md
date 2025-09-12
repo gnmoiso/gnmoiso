@@ -64,9 +64,10 @@
 
 | Proyecto                          | Lenguaje / Stack | Qué aprendí                                                               |
 |-----------------------------------|------------------|---------------------------------------------------------------------------|
+| Rhombus-And-Matrix-Multiplication | C#               | Multiplicación de matrices, lógica matemática, optimización de algoritmos |
 | InheritanceExam                   | C#               | Herencia, POO, diagramas UML                                              |
 | TallerPOO01                       | C#               | Clases, objetos y patrones de diseño básicos                              |
-| Rhombus-And-Matrix-Multiplication | C#               | Multiplicación de matrices, lógica matemática, optimización de algoritmos |
+
 
 
 ---
