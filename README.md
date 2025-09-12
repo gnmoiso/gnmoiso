@@ -1,4 +1,51 @@
-<p align="center">Hi 👋! My name is Moises Gonzalez and I'm a 25 Years old, I´m from Colombia</p>
+<p align="center"># 👋 Hola, soy Moiso González (gnmoiso)
+
+🎓 Estudiante de **Tecnología en Diseño y Programación de Soluciones SaaS** (ITM)  
+💻 Apasionado por backend, diseño de bases de datos, APIs y automatización  
+🌱 Aprendiendo: **C# · Python · Java · SQL**  
+📫 ¿Quieres contactarme? -> [LinkedIn](https://www.linkedin.com/in/tuusuario) | moisofeikk@gmail.com
+
+---
+
+## 🛠 Tecnologías y herramientas
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🚀 Proyectos destacados
+
+| Proyecto | Lenguaje / Stack | Qué aprendí |
+|---------|------------------|-------------|
+| **InheritanceExam** | C# | Herencia, POO, diagramas UML |
+| **TallerPOO01** | C# | Clases, objetos y patrones de diseño básicos |
+| **Proyecto CRUD** (por hacer) | C# / ASP.NET Core / SQLite | API CRUD, base de datos, pruebas unitarias y despliegue |
+| **Automatización con Python** (por hacer) | Python | Scripts para manipulación de archivos y datos |
+
+*(A medida que termines los proyectos, actualiza el README con enlaces a repositorios y descripciones más detalladas).*
+
+---
+
+## 📝 Sobre mí
+
+Soy estudiante de tercer semestre del ITM, y quiero convertirme en desarrollador backend especializado en **SaaS y Data Engineering**. Me gusta trabajar con bases de datos, APIs y aprender nuevas tecnologías. Actualmente desarrollo proyectos personales en C# y Python, y comparto lo que aprendo en GitHub y redes profesionales.
+
+Estoy buscando colaborar en equipos de software o comenzar proyectos freelance para aprender y crecer. Si tienes una idea, un desafío o un proyecto, ¡hablemos!
+
+---
+
+## 📬 Contáctame
+
+- ✉️ Email: moisofeikk@gmail.com  
+- 🌐 LinkedIn: [linkedin.com/in/tuusuario](https://www.linkedin.com/in/tuusuario)  
+- 💼 Portafolio: https://github.com/gnmoiso  
+
+> “Siempre abierto a aprender y construir cosas nuevas.”  
+</p>
 
 ###
 
