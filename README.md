@@ -1,9 +1,9 @@
-<p align="center"># 👋 Hola, soy Moiso González (gnmoiso)
+<p align="center"># 👋 Hi, I'm Moiso González (gnmoiso)
 
-🎓 Estudiante de **Tecnología en Diseño y Programación de Soluciones SaaS** (ITM)  
-💻 Apasionado por backend, diseño de bases de datos, APIs y automatización  
-🌱 Aprendiendo: **C# · Python · Java · SQL**  
-📫 ¿Quieres contactarme? -> [LinkedIn](https://www.linkedin.com/in/tuusuario) | moisoyt@gmail.com
+🎓 Student of **Technology in Design and Development of SaaS Solutions** (ITM)  
+💻 Passionate about backend, database design, APIs, and automation  
+🌱 Currently learning: **C# · Python · Java · SQL**  
+📫 Want to contact me? -> [LinkedIn](https://www.linkedin.com/in/tuusuario) | moisoyt@gmail.com
 
 ###
 <div align="center">
@@ -50,7 +50,7 @@
 
 ---
 
-## 🛠 Tecnologías y herramientas
+## 🛠 Technologies & Tools
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -60,31 +60,29 @@
 
 ---
 
-## 🚀 Proyectos destacados  
+## 🚀 Featured Projects  
 
-| Proyecto                          | Lenguaje / Stack | Qué aprendí                                                               |
-|-----------------------------------|------------------|---------------------------------------------------------------------------|
-| Rhombus-And-Matrix-Multiplication | C#               | Multiplicación de matrices, lógica matemática, optimización de algoritmos |
-| InheritanceExam                   | C#               | Herencia, POO, diagramas UML                                              |
-| TallerPOO01                       | C#               | Clases, objetos y patrones de diseño básicos                              |
-
-
+| Project                          | Language / Stack | What I learned                                                               |
+|----------------------------------|------------------|------------------------------------------------------------------------------|
+| Rhombus-And-Matrix-Multiplication | C#              | Matrix multiplication, mathematical logic, algorithm optimization            |
+| InheritanceExam                  | C#               | Inheritance, OOP, UML diagrams                                               |
+| TallerPOO01                      | C#               | Classes, objects, and basic design patterns                                  |
 
 ---
 
-## 📝 Sobre mí
+## 📝 About Me
 
-Soy estudiante de tercer semestre del ITM, y quiero convertirme en desarrollador backend especializado en **SaaS y Data Engineering**. Me gusta trabajar con bases de datos, APIs y aprender nuevas tecnologías. Actualmente desarrollo proyectos personales en C# y Python, y comparto lo que aprendo en GitHub y redes profesionales.
+I’m a third-semester ITM student, aiming to become a backend developer specialized in **SaaS and Data Engineering**. I enjoy working with databases, APIs, and learning new technologies. Currently, I’m building personal projects in C# and Python, and sharing what I learn on GitHub and professional networks.  
 
-Estoy buscando colaborar en equipos de software o comenzar proyectos freelance para aprender y crecer. Si tienes una idea, un desafío o un proyecto, ¡hablemos!
+I’m looking to collaborate on software teams or start freelance projects to learn and grow. If you have an idea, a challenge, or a project, let’s talk!  
 
 ---
 
-## 📬 Contáctame
+## 📬 Contact Me
 
 - ✉️ Email: moisoyt@gmail.com  
 - 🌐 LinkedIn: https://www.linkedin.com/in/moises-gonzalez-navarro-979091384/
-- 💼 Portafolio: https://github.com/gnmoiso  
+- 💼 Portfolio: https://github.com/gnmoiso  
 
 
 ###
@@ -93,5 +91,5 @@ Estoy buscando colaborar en equipos de software o comenzar proyectos freelance p
 
 
 
-> “Siempre abierto a aprender y construir cosas nuevas.”  
+> “Always open to learning and building new things.”  
 </p>
