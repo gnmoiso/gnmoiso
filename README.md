@@ -67,6 +67,8 @@
 | Rhombus-And-Matrix-Multiplication | C#              | Matrix multiplication, mathematical logic, algorithm optimization            |
 | InheritanceExam                  | C#               | Inheritance, OOP, UML diagrams                                               |
 | TallerPOO01                      | C#               | Classes, objects, and basic design patterns                                  |
+| Evaluator                        | C#               | Expression evaluation, modular design, clean code practices                  |
+
 
 ---
 
