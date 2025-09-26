@@ -1,4 +1,4 @@
-<p align="center"># 👋 Hi, I'm Moises Gonzalez (gnmoiso)
+<p align="center"># 👋 Hi, I'm Moises Gonzalez (Moiso)
 
 🎓 Student of **Technology in Design and Development of SaaS Solutions** (ITM)  
 💻 Passionate about backend, database design, APIs, and automation  
