@@ -59,17 +59,19 @@
 
 ## 🚀 Featured Projects  
 
-| Project                          | Language / Stack | What I learned                                                                 |
-|----------------------------------|------------------|--------------------------------------------------------------------------------|
-| Rhombus-And-Matrix-Multiplication | C#              | Matrix multiplication, mathematical logic, algorithm optimization              |
-| InheritanceExam                  | C#              | Inheritance, OOP, UML diagrams                                                 |
-| TallerPOO01                      | C#              | Classes, objects, object-oriented design basics                                |
-| Evaluator                        | C#              | Expression parsing, modular design, clean code principles                      |
-| FlatFilesExham                   | C#              | File handling, data persistence with flat files                                |
-| PlainFiles                       | C#              | Reading and writing text files, structured data storage                        |
-| LinkedList                       | C#              | Linked list implementation, node-based structures                              |
-| LinkedListsExham05               | C#              | Advanced linked list operations and traversal                                  |
-| Queue.Demo                       | C#              | Queue data structure, FIFO logic, algorithm flow control                       |
+| Project | Language / Stack | What I learned |
+|--------|----------------|---------------|
+| [POOConcepts](https://github.com/gnmoiso/POOConcepts) | C# | Core object-oriented programming concepts, encapsulation, classes and methods |
+| [TallerPOO01](https://github.com/gnmoiso/TallerPOO01) | C# | Object creation, basic OOP design, and program structure |
+| [InheritanceExam](https://github.com/gnmoiso/-InheritanceExam) | C# | Inheritance hierarchy, polymorphism, and UML-based design |
+| [Evaluator](https://github.com/gnmoiso/Evaluator) | C# | Expression evaluation, modular programming, clean code organization |
+| [LinkedList](https://github.com/gnmoiso/LinkedList) | C# | Implementation of linked lists using nodes and pointers |
+| [linkedListsExham05](https://github.com/gnmoiso/linkedListsExham05) | C# | Advanced list traversal and data structure operations |
+| [FlatFilesExham](https://github.com/gnmoiso/FlatFilesExham) | C# | File handling, persistent storage using flat files |
+| [LogiConcepts-2025-1](https://github.com/gnmoiso/LogiConcepts-2025-1) | C# | Algorithmic thinking, logical structures, flow control |
+| [Rhombus-And-Matrix-Multiplication](https://github.com/gnmoiso/Rhombus-And-Matrix-Multiplication) | C# | Mathematical algorithms, matrix operations, performance logic |
+
+🔹 Most of these projects were built as part of my software development training, focusing on clean code, logic, and backend foundations.
 
 ---
 
