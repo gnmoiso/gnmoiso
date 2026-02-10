@@ -59,13 +59,17 @@
 
 ## 🚀 Featured Projects  
 
-| Project                          | Language / Stack | What I learned                                                               |
-|----------------------------------|------------------|------------------------------------------------------------------------------|
-| Rhombus-And-Matrix-Multiplication | C#              | Matrix multiplication, mathematical logic, algorithm optimization            |
-| InheritanceExam                  | C#               | Inheritance, OOP, UML diagrams                                               |
-| TallerPOO01                      | C#               | Classes, objects, and basic design patterns                                  |
-| Evaluator                        | C#               | Expression evaluation, modular design, clean code practices                  |
-
+| Project                          | Language / Stack | What I learned                                                                 |
+|----------------------------------|------------------|--------------------------------------------------------------------------------|
+| Rhombus-And-Matrix-Multiplication | C#              | Matrix multiplication, mathematical logic, algorithm optimization              |
+| InheritanceExam                  | C#              | Inheritance, OOP, UML diagrams                                                 |
+| TallerPOO01                      | C#              | Classes, objects, object-oriented design basics                                |
+| Evaluator                        | C#              | Expression parsing, modular design, clean code principles                      |
+| FlatFilesExham                   | C#              | File handling, data persistence with flat files                                |
+| PlainFiles                       | C#              | Reading and writing text files, structured data storage                        |
+| LinkedList                       | C#              | Linked list implementation, node-based structures                              |
+| LinkedListsExham05               | C#              | Advanced linked list operations and traversal                                  |
+| Queue.Demo                       | C#              | Queue data structure, FIFO logic, algorithm flow control                       |
 
 ---
 
