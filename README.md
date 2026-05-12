@@ -1,97 +1,164 @@
-<p align="center">
-
-# 👋 Hi, I'm Moises Gonzalez (Moiso)
-
-🎓 Student of **Technology in Design and Development of SaaS Solutions** (ITM)  
-💻 Passionate about backend, database design, APIs, and automation  
-🌱 Currently learning: **C# · Python · Java · SQL · Spring Boot · Angular · PostgreSQL**  
-📫 Want to contact me? -> [LinkedIn](https://www.linkedin.com/in/tuusuario) | moisoyt@gmail.com  
-
-###
-
+````md
 <div align="center">
-  <a href="https://www.linkedin.com/in/moises-gonzalez-navarro-979091384/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0f0f,100:1f1f1f&text=MOISES%20GONZALEZ&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Backend%20Developer%20%7C%20Software%20Engineering%20Student&descAlignY=58&animation=fadeIn"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&pause=1200&color=FFFFFF&center=true&vCenter=true&width=900&lines=Building+backend+systems+and+real+applications;Spring+Boot+%7C+Angular+%7C+PostgreSQL;Focused+on+APIs%2C+Databases+and+Architecture;C%23+Developer+%7C+Java+Developer" />
+
 </div>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=gnmoiso.gnmoiso&"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="318" src="https://i.imgflip.com/a5wgmq.gif"  />
-</div>
-
-###
 
 ---
 
-## 🛠 Technologies & Tools
+# ABOUT
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 🚀 Featured Projects  
-
-| Project | Language / Stack | What I learned |
-|--------|----------------|---------------|
-| [Restaurant-Reservation-System](https://github.com/gnmoiso/restaurant-reservation-system) | Java · Spring Boot · Angular · PostgreSQL | Full Stack integration, REST APIs, layered architecture, frontend-backend communication |
-| [POOConcepts](https://github.com/gnmoiso/POOConcepts) | C# | Core object-oriented programming concepts, encapsulation, classes and methods |
-| [TallerPOO01](https://github.com/gnmoiso/TallerPOO01) | C# | Object creation, basic OOP design, and program structure |
-| [InheritanceExam](https://github.com/gnmoiso/-InheritanceExam) | C# | Inheritance hierarchy, polymorphism, and UML-based design |
-| [Evaluator](https://github.com/gnmoiso/Evaluator) | C# | Expression evaluation, modular programming, clean code organization |
-| [LinkedList](https://github.com/gnmoiso/LinkedList) | C# | Implementation of linked lists using nodes and pointers |
-| [linkedListsExham05](https://github.com/gnmoiso/linkedListsExham05) | C# | Advanced list traversal and data structure operations |
-| [FlatFilesExham](https://github.com/gnmoiso/FlatFilesExham) | C# | File handling, persistent storage using flat files |
-| [LogiConcepts-2025-1](https://github.com/gnmoiso/LogiConcepts-2025-1) | C# | Algorithmic thinking, logical structures, flow control |
-| [Rhombus-And-Matrix-Multiplication](https://github.com/gnmoiso/Rhombus-And-Matrix-Multiplication) | C# | Mathematical algorithms, matrix operations, performance logic |
-
-🔹 Most of these projects were built as part of my software development training, focusing on clean code, logic, and backend foundations.
+```yaml
+name: Moises Gonzalez
+location: Colombia
+role: Backend / Full Stack Developer
+education: ITM - SaaS Solutions Development
+main_languages:
+  - C#
+  - Java
+  - SQL
+currently_learning:
+  - Spring Boot
+  - Angular
+  - PostgreSQL
+focus:
+  - APIs
+  - Backend Architecture
+  - Database Design
+  - Full Stack Applications
+````
 
 ---
 
-## 📝 About Me
+# TECH STACK
 
-I’m a third-semester ITM student, aiming to become a backend developer specialized in **SaaS and Data Engineering**. I enjoy working with databases, APIs, and learning new technologies. Currently, I’m building personal projects in C#, Java, and Full Stack development (Spring Boot & Angular), and sharing what I learn on GitHub and professional networks.  
+<div align="center">
 
-I’m looking to collaborate on software teams or start freelance projects to learn and grow. If you have an idea, a challenge, or a project, let’s talk!  
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,angular,postgres,python,mysql,git,github,vscode&perline=6" />
+
+</div>
 
 ---
 
-## 📬 Contact Me
+# FEATURED PROJECTS
 
-- ✉️ Email: moisoyt@gmail.com  
-- 🌐 LinkedIn: https://www.linkedin.com/in/moises-gonzalez-navarro-979091384/
-- 💼 Portfolio: https://github.com/gnmoiso  
+<div align="center">
 
-###
+<table>
+<tr>
+<td width="50%">
 
-> “Always open to learning and building new things.”
+## RESTAURANT RESERVATION SYSTEM
 
-</p>
+Full Stack reservation management system.
+
+### STACK
+
+* Spring Boot
+* Angular
+* PostgreSQL
+* REST API
+
+### FEATURES
+
+* Reservation management
+* Backend architecture
+* API communication
+* Database integration
+
+</td>
+
+<td width="50%">
+
+## C# STRUCTURES & OOP
+
+Collection of backend and logic-focused projects.
+
+### TOPICS
+
+* Linked Lists
+* Inheritance
+* Algorithms
+* File Handling
+* Matrix Operations
+* Object-Oriented Design
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# GITHUB ANALYTICS
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gnmoiso&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnmoiso&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+</div>
+
+---
+
+# CONTRIBUTION GRAPH
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gnmoiso&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# CURRENT WORKFLOW
+
+<div align="center">
+
+```mermaid
+flowchart LR
+
+A[Idea] --> B[Database Design]
+B --> C[Backend API]
+C --> D[Spring Boot]
+D --> E[Angular Frontend]
+E --> F[Deployment]
+```
+
+</div>
+
+---
+
+# CONNECT
+
+<div align="center">
+
+<a href="mailto:moisoyt@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/moises-gonzalez-navarro-979091384/">
+<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/gnmoiso">
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=gnmoiso&style=for-the-badge&color=grey"/>
+
+</div>
+```
