@@ -18,14 +18,17 @@ name: Moises Gonzalez
 location: Colombia
 role: Backend / Full Stack Developer
 education: ITM - SaaS Solutions Development
+
 main_languages:
   - C#
   - Java
   - SQL
+
 currently_learning:
   - Spring Boot
   - Angular
   - PostgreSQL
+
 focus:
   - APIs
   - Backend Architecture
@@ -51,7 +54,8 @@ focus:
 
 <table>
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ## RESTAURANT RESERVATION SYSTEM
 
@@ -73,7 +77,7 @@ Full Stack reservation management system.
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## C# STRUCTURES & OOP
 
@@ -89,6 +93,7 @@ Collection of backend and logic-focused projects.
 * Object-Oriented Design
 
 </td>
+
 </tr>
 </table>
 
@@ -100,9 +105,17 @@ Collection of backend and logic-focused projects.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gnmoiso&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gnmoiso&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnmoiso&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnmoiso&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=gnmoiso&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -122,15 +135,13 @@ Collection of backend and logic-focused projects.
 
 <div align="center">
 
+<img src="https://skillicons.dev/icons?i=postgres,spring,angular,docker" />
 
-flowchart LR
+<br><br>
 
-A[Idea] --> B[Database Design]
-B --> C[Backend API]
-C --> D[Spring Boot]
-D --> E[Angular Frontend]
-E --> F[Deployment]
-
+```txt
+Idea → Database Design → Backend API → Spring Boot → Angular → Deployment
+```
 
 </div>
 
