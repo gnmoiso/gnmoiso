@@ -139,9 +139,9 @@ Collection of backend and logic-focused projects.
 
 <br><br>
 
-```txt
+
 Idea → Database Design → Backend API → Spring Boot → Angular → Deployment
-```
+
 
 </div>
 
