@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0f0f,100:1f1f1f&text=MOISES%20GONZALEZ&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Backend%20Developer%20%7C%20Software%20Engineering%20Student&descAlignY=58&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0f0f,100:1f1f1f&text=MOISES%20GONZALEZ&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=FullStack%20Developer%20%7C%20Software%20Engineering%20Student&descAlignY=58&animation=fadeIn"/>
 
 <br>
 
@@ -31,7 +31,7 @@ focus:
   - Backend Architecture
   - Database Design
   - Full Stack Applications
-````
+
 
 ---
 
@@ -122,7 +122,7 @@ Collection of backend and logic-focused projects.
 
 <div align="center">
 
-```mermaid
+
 flowchart LR
 
 A[Idea] --> B[Database Design]
@@ -130,7 +130,7 @@ B --> C[Backend API]
 C --> D[Spring Boot]
 D --> E[Angular Frontend]
 E --> F[Deployment]
-```
+
 
 </div>
 
