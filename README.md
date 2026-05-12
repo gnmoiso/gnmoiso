@@ -13,7 +13,7 @@
 
 # ABOUT
 
-```yaml
+
 name: Moises Gonzalez
 location: Colombia
 role: Backend / Full Stack Developer
